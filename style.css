@@ -97,7 +97,7 @@ transform: translate(-50%,-50%);
 #right .right-bottom{
     width: 100%;
     height: 50%;
-    background-image:url(images/imag-3.jpg);
+    background-image:url(images/imag-3.webp);
     background-position: center;
     background-size: cover;
 }
